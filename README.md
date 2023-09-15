@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a Javascript Full Stack Developer
 - 📫 How to reach me ksmasemula@gmail.com
 
-<img src="https://github-readme-stats-git-master-ksmasemula.vercel.app/api?username=ksmasemula&show_owner=true&include_all_commit=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&count_private=true" />
+<img src="https://github-readme-stats-git-master-ksmasemula.vercel.app/api?username=ksmasemula&show_owner=true&include_all_commit=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,count_private&show_icons=true&theme=dracula" />
 
 ![Top Langs](https://github-readme-stats-git-master-ksmasemula.vercel.app/api/top-langs/?username=ksmasemula&theme=dracula)
 <!---
